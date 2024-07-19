@@ -6,8 +6,6 @@ Tools: Pandas, Matplotlib, Seaborn
 
 Key Activities:
 
-Conducted Exploratory Data Analysis (EDA) to uncover sales trends.
-Visualized sales patterns and customer behavior using Matplotlib and Seaborn.
-Provided actionable insights to enhance customer experience and boost revenue.
+Conducted an in-depth sales data analysis to improve customer experience and increase revenue. Utilized Python, Pandas, Matplotlib, and Seaborn for data collection, cleaning, exploratory data analysis, and visualization. Identified sales trends, top-performing products, and customer purchase behaviors. Provided actionable recommendations for personalized marketing, inventory optimization, and customer engagement improvements. Presented insights to stakeholders, leading to enhanced customer satisfaction and revenue growth.
 
 
